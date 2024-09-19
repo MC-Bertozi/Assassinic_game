@@ -1,0 +1,54 @@
+Jogo --> Assassinic :P 
+nome provisório 
+
+Jogo 2D 
+
+Pixel art 
+
+Inimigos --> policiais 
+
+ 
+
+Fases diferentes, cada uma com uma parte do mundo com referência a algo/acontecimento/assassinato famoso 
+
+Missões diferentes, com enigmas direcionados ao mistério principal 
+
+ 
+
+FASES 
+
+Londres – Jack estripador; 
+
+Brasil - Lázaro 
+
+ 
+
+HISTÓRIA 
+
+Um mímico francês, que é acusado de ser um assassino.  Tendo certeza que essa acusação é falsa, e com o objetivo se inocentar, ele decide tentar resolver o mistério, investigando lugares de todo o mundo, seguindo os rastros do possível culpado, achando pistas enigmáticas, e com a ajuda de seu melhor amigo (ou talvez uma irmã, não sei) [pensei em fazer esse NPC ser tipo ‘rico’, que consegue as viagens para o mímico (porque como ele tá sendo procurado pela polícia, viajar normalmente não ia dar muito certo)]. 
+
+\_ cada fase do jogo representa uma etapa para a resolução do mistério principal, contando com missões únicas (“side quests”), em um lugar diferente do planeta (provavelmente uns 5/6 países de cada continente), mas sempre voltando ao enigma principal. [é interessante colocar uma forma do personagem sempre conseguir voltar a Paris, já que é lá que tudo começou] _/ 
+
+ 
+
+MAPAS 
+
+Paris 
+
+Nesse mapa, vai ser possível o jogador andar por grande parte da cidade, incluindo a parte subterrânea, dentro das tumbas 
+
+ 
+
+\_ seria interessante usar algum lugar para deixar o personagem se esconder, quando os policiais chegarem perto (eu tinha pensado no esgoto, e para o jogador saber que ele pode voltar a superfície poderíamos deixar o som dos policiais passando pela rua, e quando esse som acabar já é possível sair sem ser pego) _/ 
+
+ 
+
+Londres 
+
+\_  seguindo a mesma ideia dos esconderijos, eu pensei em usar as cabines telefônicas ou algo do tipo, sabe uma coisa bem comum do local (eu queria fazer isso pra todos os países em que as fases ocorrerão) _/ 
+
+ 
+
+Brasil 
+
+\_ no Brasil, o local para se esconder poderia ser os orelhôes _/ 
