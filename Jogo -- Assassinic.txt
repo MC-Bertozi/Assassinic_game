@@ -41,9 +41,15 @@ Brasil - Lázaro
 
 >> HISTÓRIA <<
 
-Um mímico francês, que é acusado de ser um assassino.  Tendo certeza que essa acusação é falsa, e com o objetivo se inocentar, ele decide tentar resolver o mistério, investigando lugares de todo o mundo, seguindo os rastros do possível culpado, achando pistas enigmáticas, e com a ajuda de seu melhor amigo (ou talvez uma irmã, não sei) [pensei em fazer esse NPC ser tipo ‘rico’, que consegue as viagens para o mímico (porque como ele tá sendo procurado pela polícia, viajar normalmente não ia dar muito certo)]. 
+Um mímico francês, que é acusado de ser um assassino. Tendo certeza que essa acusação é falsa, e com o objetivo se inocentar,
+ele decide tentar resolver o mistério, investigando lugares de todo o mundo, seguindo os rastros do possível culpado, achando 
+pistas enigmáticas, e com a ajuda de seu melhor amigo (ou talvez uma irmã, não sei) [pensei em fazer esse NPC ser tipo ‘rico’,
+que consegue as viagens para o mímico (porque como ele tá sendo procurado pela polícia, viajar normalmente não ia dar muito 
+certo)]. 
 
-\_ cada fase do jogo representa uma etapa para a resolução do mistério principal, contando com missões únicas (“side quests”), em um lugar diferente do planeta (provavelmente uns 5/6 países de cada continente), mas sempre voltando ao enigma principal. [é interessante colocar uma forma do personagem sempre conseguir voltar a Paris, já que é lá que tudo começou] _/ 
+\_ cada fase do jogo representa uma etapa para a resolução do mistério principal, contando com missões únicas (“side quests”), em
+um lugar diferente do planeta (provavelmente uns 5/6 países de cada continente), mas sempre voltando ao enigma principal. [é
+interessante colocar uma forma do personagem sempre conseguir voltar a Paris, já que é lá que tudo começou] _/ 
 
  
 
@@ -55,13 +61,16 @@ Nesse mapa, vai ser possível o jogador andar por grande parte da cidade, inclui
 
  
 
-\_ seria interessante usar algum lugar para deixar o personagem se esconder, quando os policiais chegarem perto (eu tinha pensado no esgoto, e para o jogador saber que ele pode voltar a superfície poderíamos deixar o som dos policiais passando pela rua, e quando esse som acabar já é possível sair sem ser pego) _/ 
+\_ seria interessante usar algum lugar para deixar o personagem se esconder, quando os policiais chegarem perto (eu tinha pensado
+no esgoto, e para o jogador saber que ele pode voltar a superfície poderíamos deixar o som dos policiais passando pela rua, e
+quando esse som acabar já é possível sair sem ser pego) _/ 
 
  
 
 Londres 
 
-\_  seguindo a mesma ideia dos esconderijos, eu pensei em usar as cabines telefônicas ou algo do tipo, sabe uma coisa bem comum do local (eu queria fazer isso pra todos os países em que as fases ocorrerão) _/ 
+\_  seguindo a mesma ideia dos esconderijos, eu pensei em usar as cabines telefônicas ou algo do tipo, sabe uma coisa bem comum
+do local (eu queria fazer isso pra todos os países em que as fases ocorrerão) _/ 
 
  
 
@@ -73,12 +82,18 @@ Brasil
 
 ->Ele sempre fica preso no final (menos no primeiro final)
 
-1- Ele chega na conclusao de que na verdade ele estava sendo controlado e ele estava matando as pessoas, então ele mesmo se mata e a sombra dele esvanece junto com o dono. (OLHO POR OLHO); -> se ele descobre sozinho
+1- Ele chega na conclusao de que na verdade ele estava sendo controlado e ele estava matando as pessoas, então ele mesmo se mata
+e a sombra dele esvanece junto com o dono. (OLHO POR OLHO); -> se ele descobre sozinho
 
 ->Caso ele se denunciasse pra policia
 
 if(ele erra o nome do verdadeiro assassino)
-2- Quando o Mimico for preso, ele está exausto devido a criatura parasita "sombra" que absorveu toda sua energia vital para obter mais vitimas, e antes dele finalmente dormir/morrer a sombra sai dele de fininho e um grito abafado é ouvido de fundo, uma nova vitima foi feita. (UMA NOVA VITIMA FOI FEITA); ->ele n teria noção q ele era o assassino
+2- Quando o Mimico for preso, ele está exausto devido a criatura parasita "sombra" que absorveu toda sua energia vital para obter
+mais vitimas, e antes dele finalmente dormir/morrer a sombra sai dele de fininho e um grito abafado é ouvido de fundo, uma nova
+vitima foi feita. (UMA NOVA VITIMA FOI FEITA); ->ele n teria noção q ele era o assassino
 
 else if(ele coloca o proprio nome no papel)
-3-O Mimico escreve o proprio nome no papel que pergunta "Quem é o assassino?" quando o policial sai. Quando o policial volta acontecea cena do Mimico se levantando e pegando a arma do policial (que achava que o Mimico só ia dar a resposta e tentou impedir o Mimico de pegar a arma) e ele mesmo se mata com um tiro apos chorar de verdade pela primeira vez no jogo. (A UNICA LAGRIMA)
+3-O Mimico escreve o proprio nome no papel que pergunta "Quem é o assassino?" quando o policial sai. Quando o policial volta
+acontecea cena do Mimico se levantando e pegando a arma do policial (que achava que o Mimico só ia dar a resposta e tentou
+impedir o Mimico de pegar a arma) e ele mesmo se mata com um tiro apos chorar de verdade pela primeira vez no jogo. (A UNICA
+LAGRIMA)
